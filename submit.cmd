@@ -1,0 +1,1 @@
+C:\spark-2.2.1-bin-hadoop2.7\bin\spark-submit --class "Main" --master local[4] C:\Users\Kubanino\IdeaProjects\spark-spring-playground\target\demo-0.0.1-SNAPSHOT.jar
